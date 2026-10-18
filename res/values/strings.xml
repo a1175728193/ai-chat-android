@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Chat</string>
+    <string name="clear">清空</string>
+    <string name="settings">设置</string>
+    <string name="send">发送</string>
+    <string name="input_hint">输入消息…</string>
+    <string name="settings_title">接口设置</string>
+    <string name="base_url_hint">接口地址 Base URL</string>
+    <string name="api_key_hint">API Key</string>
+    <string name="model_hint">模型名称</string>
+    <string name="stream_on">流式输出（逐字显示）</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="clear_title">清空对话</string>
+    <string name="clear_msg">将删除当前会话的全部消息，确定吗？</string>
+    <string name="ok">确定</string>
+    <string name="need_key">请先在设置里填写 API Key</string>
+    <string name="empty_input">请输入内容</string>
+    <string name="thinking">正在思考…</string>
+    <string name="stopped">已中断</string>
+</resources>
